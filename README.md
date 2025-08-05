@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+> "What I cannot create, I do not understand" - Richard P. Feynman
+
+> "The first principle is that you must not fool yourself and you are the easiest person to fool." - Richard P. Feynman
+
+## About Me
+
+I am a researcher and engineer with primary focus on distributed systems, large scale LLM inference, applied cryptography, confidential computing and systems design and performance. I like coding in Rust, Python, Typescript.
 <!--
 **jorgeantonio21/jorgeantonio21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
