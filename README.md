@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am an industry researcher and engineer with primary focus on distributed systems, large scale LLM inference, applied cryptography, confidential computing, and systems design and performance. I like coding in Rust, Python, and Typescript.
+I am an industry researcher and engineer with primary focus on distributed systems, large scale LLM inference, applied cryptography, consensus protocols, confidential computing, and systems design and performance. I like coding in Rust, Python, and Typescript.
 <!--
 **jorgeantonio21/jorgeantonio21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
