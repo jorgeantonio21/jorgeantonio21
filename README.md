@@ -8,13 +8,13 @@
 
 I am an industry researcher and engineer with primary focus on:
 
-- [x] Distributed systems,
-- [x] Large scale LLM inference,
-- [x] Applied cryptography,
-- [x] Zero-knowledge cryptography,
-- [x] Consensus protocols,
-- [x] Confidential computing,
-- [x] Systems design and performance.
+🔭 Distributed systems,
+🌱 Large scale LLM inference,
+🤔 Applied cryptography,
+💬 Zero-knowledge cryptography,
+📫 Consensus protocols,
+😄 Confidential computing,
+👯 Systems design and performance.
 
 ⚡ I like coding in Rust, Python, and Typescript.
 <!--
