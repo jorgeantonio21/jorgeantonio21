@@ -10,8 +10,7 @@
 <br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,terraform,aws,gcp,git,linux&theme=dark" alt="Tools & Cloud" />
 
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/Jorge_António-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ant%C3%B3nio-0a2b7297/)
 [![X](https://img.shields.io/badge/@Twen2Ack-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Twen2Ack)
@@ -24,8 +23,6 @@
 <img src="https://github-trophies.vercel.app/?username=jorgeantonio21&theme=darkhub&no-frame=true&no-bg=true&column=6&rank=-C,-B,-A" alt="Trophies" />
 
 </div>
-
----
 
 > "What I cannot create, I do not understand." — Richard P. Feynman
 
@@ -140,8 +137,6 @@ Active contributor to projects across the distributed systems, cryptography, and
 
 </div>
 
----
-
 ## 📬 Contact
 
 | | |
@@ -151,4 +146,4 @@ Active contributor to projects across the distributed systems, cryptography, and
 | **LinkedIn** | [Jorge António](https://www.linkedin.com/in/jorge-ant%C3%B3nio-0a2b7297/) |
 | **X** | [@Twen2Ack](https://x.com/Twen2Ack) |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" />
