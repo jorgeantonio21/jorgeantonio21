@@ -6,13 +6,14 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=rust,py,ts,cpp,go,solidity,terraform,aws,gcp,latex,git,docker,linux,kubernetes&theme=dark" alt="Skills" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,ts,cpp,go,cuda,solidity,latex&theme=dark" alt="Languages" />
+<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,terraform,aws,gcp,git,linux&theme=dark" alt="Tools & Cloud" />
 
 <br/>
 
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Move](https://img.shields.io/badge/-Move-5C2D91?style=flat-square)
-![Packer](https://img.shields.io/badge/-Packer-02A8EF?style=flat-square&logo=packer&logoColor=white)
+![Move](https://img.shields.io/badge/-Move-5C2D91?style=for-the-badge)
+![Packer](https://img.shields.io/badge/-Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
 
 <br/>
 
@@ -24,7 +25,7 @@
 
 <br/>
 
-<img src="https://github-trophies.vercel.app/?username=jorgeantonio21&theme=darkhub&no-frame=true&no-bg=true&column=8" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=jorgeantonio21&theme=darkhub&no-frame=true&no-bg=true&column=6&rank=-C,-B,-A" alt="Trophies" />
 
 </div>
 
