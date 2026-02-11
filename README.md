@@ -2,6 +2,11 @@
 
 **Mathematician turned systems engineer** | Previous co-founder of [Atoma](https://atoma.ai) | PhD in Mathematics
 
+[![LinkedIn](https://img.shields.io/badge/-Jorge_António-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ant%C3%B3nio-0a2b7297/)
+[![X](https://img.shields.io/badge/-@Twen2Ack-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Twen2Ack)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jorgeantonio21)
+![Profile Views](https://komarev.com/ghpvc/?username=jorgeantonio21&style=flat-square&color=blueviolet)
+
 ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -30,27 +35,44 @@ I build high-performance distributed systems at the intersection of AI inference
 
 My background is rooted in pure mathematics — I hold a PhD in algebraic geometry and algebraic topology from the University of Toulouse, where I worked under [Bertrand Toen](https://en.wikipedia.org/wiki/Bertrand_To%C3%ABn) on derived arithmetic geometry. My research focused on derived non-archimedean analytic geometry, including derived formal schemes, Raynaud localization, and non-archimedean Hodge filtrations. Selected publications on [arXiv](https://arxiv.org/search/?query=Jorge+Ant%C3%B3nio&searchtype=author).
 
+## 🔥 Currently Building
+
+- 🚀 **Large-scale LLM inference in Rust** — High-throughput GPU serving systems, kernel-level optimization, distributed inference orchestration
+- 🔗 **Consensus protocols** — Implementing [Minimmit](https://arxiv.org/abs/2508.10862) and exploring next-gen BFT designs for the [Hellas](https://github.com/hellas-ai) network
+- ⚡ **High-frequency low-latency trading systems** — Performance-critical infrastructure, lock-free data structures, kernel-bypass networking
+
 ## 🔭 What I Work On
 
 - 🚀 **Large-scale LLM inference** — High-throughput serving systems, GPU kernel optimization, distributed inference orchestration
-- 🌐 **Distributed systems** — Consensus protocols (including [Minimmit](https://arxiv.org/abs/2508.10862) implementation), fault tolerance, state machine replication
+- 🌐 **Distributed systems** — Consensus protocols, fault tolerance, state machine replication
 - 🔐 **Cryptography** — Zero-knowledge proof systems (PLONK, Plonky2/3, STARKs), applied cryptographic protocols, verifiable computation
 - 🛡️ **Confidential computing** — TEE-based inference, hardware-rooted trust, secure multi-party AI workloads
 - ⚡ **High-frequency low-latency trading systems** — Performance-critical infrastructure, lock-free data structures, kernel-bypass networking
 
 ## 🛠️ Featured Projects
 
+### 🚀 AI Inference
+
 - 🔥 **[atoma-infer](https://github.com/AtomaAI/atoma-infer)** — Fast serverless LLM inference engine, written in Rust
 - 🏗️ **[atoma-node](https://github.com/AtomaAI/atoma-node)** — Core infrastructure for confidential computing AI inference
 - 🌉 **[atoma-proxy](https://github.com/AtomaAI/atoma-proxy)** — Atoma's proxy service for routing and load balancing inference workloads
-- 🔗 **[hellas consensus](https://github.com/hellas-ai/consensus)** — Core consensus protocol for the Hellas blockchain, including Minimmit implementation
 - 🔒 **[nvtrust](https://github.com/jorgeantonio21/nvtrust)** — Open source tooling to support confidential computing on NVIDIA GPUs
+
+### 🌐 Distributed Systems
+
+- 🔗 **[hellas consensus](https://github.com/hellas-ai/consensus)** — Core consensus protocol for the Hellas blockchain, including Minimmit implementation
+- 🧪 **[ganishka](https://github.com/jorgeantonio21/ganishka)** — Distributed systems challenge solutions (Maelstrom) in Rust
+- 📚 **[cdks](https://github.com/jorgeantonio21/cdks)** — Context-driven knowledge service ingestion in Rust
+
+### 🔐 Cryptography & Zero Knowledge
+
 - 🌳 **[zktree](https://github.com/jorgeantonio21/zktree)** — A Rust implementation of zero-knowledge Merkle trees
 - 🔄 **[ProvableMerkleTrees](https://github.com/jorgeantonio21/ProvableMerkleTrees)** — Recursive Plonky2 circuits for provable Merkle tree operations
 - 🔑 **[chaum-pedersen-auth](https://github.com/jorgeantonio21/chaum-pedersen-client-server-authentication)** — Chaum-Pedersen zero-knowledge authentication protocol in Rust
-- 🧪 **[ganishka](https://github.com/jorgeantonio21/ganishka)** — Distributed systems challenge solutions (Maelstrom) in Rust
-- 📚 **[cdks](https://github.com/jorgeantonio21/cdks)** — Context-driven knowledge service ingestion in Rust
-- 📐 **[Derived_rig_cohomology](https://github.com/jorgeantonio21/Derived_rig_cohomology)** — Research on derived rigid cohomology for singular varieties over perfect fields of positive characteristic
+
+### 📐 Research
+
+- 📐 **[Derived_rig_cohomology](https://github.com/jorgeantonio21/Derived_rig_cohomology)** — Derived rigid cohomology for singular varieties over perfect fields of positive characteristic
 
 ## 📄 Selected Publications
 
@@ -62,10 +84,21 @@ My background is rooted in pure mathematics — I hold a PhD in algebraic geomet
 
 Active contributor to projects across the distributed systems, cryptography, and AI inference ecosystems — including [NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo), [Tari protocol](https://github.com/tari-project/tari), [Plonky3](https://github.com/Plonky3/Plonky3), [vLLM](https://github.com/vllm-project/vllm), [SGLang](https://github.com/sgl-project/sglang), [raft-rs](https://github.com/tikv/raft-rs), [reth](https://github.com/paradigmxyz/reth), [Aeron](https://github.com/real-logic/aeron), and various ZK proof system libraries.
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgeantonio21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeantonio21&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeantonio21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgeantonio21&theme=tokyonight" alt="Profile Details" />
+</p>
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/jorgeantonio21)
 
 ---
-
-> *"What I cannot create, I do not understand."* — Richard P. Feynman
