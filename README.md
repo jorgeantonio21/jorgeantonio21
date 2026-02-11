@@ -146,4 +146,4 @@ Active contributor to projects across the distributed systems, cryptography, and
 | **LinkedIn** | [Jorge António](https://www.linkedin.com/in/jorge-ant%C3%B3nio-0a2b7297/) |
 | **X** | [@Twen2Ack](https://x.com/Twen2Ack) |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=60&section=footer" />
