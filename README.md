@@ -10,10 +10,6 @@
 <br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,terraform,aws,gcp,git,linux&theme=dark" alt="Tools & Cloud" />
 
-<br/>
-
-![Move](https://img.shields.io/badge/-Move-5C2D91?style=for-the-badge)
-![Packer](https://img.shields.io/badge/-Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
 
 <br/>
 
