@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Jorge%20Antonio&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%7C%20Researcher%20%7C%20Mathematician&descSize=18&descColor=8B949E&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=%F0%9F%91%8B%20Jorge%20Antonio&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%7C%20Researcher%20%7C%20Mathematician&descSize=18&descColor=8B949E&descAlignY=55" />
 
 <div align="center">
 
