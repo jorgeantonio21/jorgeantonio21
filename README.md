@@ -40,7 +40,7 @@ I build high-performance distributed systems at the intersection of AI inference
 
 ### Research & Academic Background
 
-My background is rooted in pure mathematics — I hold a PhD in algebraic geometry and algebraic topology from the University of Toulouse, where I worked under [Bertrand Toen](https://en.wikipedia.org/wiki/Bertrand_To%C3%ABn) on derived arithmetic geometry. My research focused on derived non-archimedean analytic geometry, including derived formal schemes, Raynaud localization, and non-archimedean Hodge filtrations. Selected publications on [arXiv](https://arxiv.org/search/?query=Jorge+Ant%C3%B3nio&searchtype=author).
+PhD in algebraic geometry and algebraic topology, working under [Bertrand Toen](https://en.wikipedia.org/wiki/Bertrand_To%C3%ABn) on derived arithmetic geometry. Research focused on derived non-archimedean analytic geometry, including derived formal schemes, Raynaud localization, and non-archimedean Hodge filtrations. Selected publications on [arXiv](https://arxiv.org/search/?query=Jorge+Ant%C3%B3nio&searchtype=author).
 
 ## Currently Building
 
