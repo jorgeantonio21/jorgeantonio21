@@ -6,13 +6,13 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=rust,py,ts,cpp,go,latex,git,docker,linux,kubernetes&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=rust,py,ts,cpp,go,solidity,terraform,aws,gcp,latex,git,docker,linux,kubernetes&theme=dark" alt="Skills" />
 
 <br/>
 
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Move](https://img.shields.io/badge/-Move-5C2D91?style=flat-square)
+![Packer](https://img.shields.io/badge/-Packer-02A8EF?style=flat-square&logo=packer&logoColor=white)
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jorgeantonio21&theme=darkhub&no-frame=true&no-bg=true&column=8" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=jorgeantonio21&theme=darkhub&no-frame=true&no-bg=true&column=8" alt="Trophies" />
 
 </div>
 
@@ -114,11 +114,6 @@ My background is rooted in pure mathematics — I hold a PhD in algebraic geomet
 Active contributor to projects across the distributed systems, cryptography, and AI inference ecosystems — including [NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo), [Tari protocol](https://github.com/tari-project/tari), [Plonky3](https://github.com/Plonky3/Plonky3), [vLLM](https://github.com/vllm-project/vllm), [SGLang](https://github.com/sgl-project/sglang), [raft-rs](https://github.com/tikv/raft-rs), [reth](https://github.com/paradigmxyz/reth), [Aeron](https://github.com/real-logic/aeron), and various ZK proof system libraries.
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgeantonio21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeantonio21&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top Languages" height="170" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jorgeantonio21&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
