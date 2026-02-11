@@ -2,7 +2,7 @@
 
 **Mathematician turned systems engineer** | Previous co-founder of [Atoma](https://atoma.ai) | PhD in Mathematics
 
-[![LinkedIn](https://img.shields.io/badge/-Jorge_António-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ant%C3%B3nio-0a2b7297/)
+[![LinkedIn](https://img.shields.io/badge/Jorge_António-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ant%C3%B3nio-0a2b7297/)
 [![X](https://img.shields.io/badge/-@Twen2Ack-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Twen2Ack)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jorgeantonio21)
 ![Profile Views](https://komarev.com/ghpvc/?username=jorgeantonio21&style=flat-square&color=blueviolet)
