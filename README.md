@@ -45,7 +45,7 @@ PhD in algebraic geometry and algebraic topology, working under [Bertrand Toen](
 ## Currently Building
 
 - **Large-scale LLM inference in Rust** — High-throughput GPU serving systems, kernel-level optimization, distributed inference orchestration
-- **Consensus protocols** — Implementing [Minimmit](https://arxiv.org/abs/2508.10862) and exploring next-gen BFT designs for the [Hellas](https://github.com/hellas-ai) network
+- **Consensus protocols** — Implementing [Minimmit](https://arxiv.org/abs/2508.10862) in [Kairos](https://github.com/jorgeantonio21/kairos), exploring next-gen BFT designs
 - **High-frequency low-latency trading systems** — Performance-critical infrastructure, lock-free data structures, kernel-bypass networking
 
 ## What I Work On
@@ -73,7 +73,7 @@ PhD in algebraic geometry and algebraic topology, working under [Bertrand Toen](
 <summary><b>🌐 Distributed Systems</b></summary>
 <br/>
 
-- **[hellas consensus](https://github.com/hellas-ai/consensus)** — Core consensus protocol for the Hellas blockchain, including Minimmit implementation
+- **[kairos](https://github.com/jorgeantonio21/kairos)** — Consensus protocol implementation, including Minimmit implementation
 - **[ganishka](https://github.com/jorgeantonio21/ganishka)** — Distributed systems challenge solutions (Maelstrom) in Rust
 - **[cdks](https://github.com/jorgeantonio21/cdks)** — Context-driven knowledge service ingestion in Rust
 
