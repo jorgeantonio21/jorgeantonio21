@@ -1,17 +1,33 @@
-# Jorge Antonio
+## Hi there 👋
 
-> "What I cannot create, I do not understand." — Richard P. Feynman
+> "What I cannot create, I do not understand" - Richard P. Feynman
 
-> "The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard P. Feynman
+> "The first principle is that you must not fool yourself and you are the easiest person to fool." - Richard P. Feynman
 
----
+## About Me
 
-I build high-performance distributed systems at the intersection of AI inference, cryptography, and fault-tolerant computing.
+I am an industry researcher and engineer with primary focus on:
 
-## What I work on
+- Distributed systems,
+- Large scale LLM inference,
+- Applied cryptography,
+- Zero-knowledge cryptography,
+- Consensus protocols,
+- Confidential computing,
+- Systems design and performance.
 
-- **Large-scale LLM inference in Rust** — high-throughput GPU serving, kernel-level optimization, distributed inference orchestration
-- **Consensus protocols** — BFT designs, fault tolerance, state machine replication
-- **High-frequency low-latency trading systems** — performance-critical infrastructure, lock-free data structures, kernel-bypass networking
-- **Cryptography** — zero-knowledge proof systems, applied cryptographic protocols, verifiable computation
-- **Confidential computing** — TEE-based inference, hardware-rooted trust, secure multi-party AI workloads
+⚡ I like coding in Rust, Python, and Typescript.
+<!--
+**jorgeantonio21/jorgeantonio21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
